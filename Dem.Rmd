@@ -6,3 +6,9 @@ output: html_document
 # Introduction
 
 amazing
+
+```{r}
+png(projr::projr_path_get_file("output", "p.png"))
+plot(1:10)
+dev.off()
+```
