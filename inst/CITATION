@@ -1,0 +1,10 @@
+citHeader("To cite `DemProjrTest` in publications use:")
+
+bibentry(bibtype = "Misc",
+         key = "rodo",
+         title = "DemProjrTest: Demonstrating awesomeness",
+         author = person(given = "Miguel",
+                         family = "Rodo"),
+         url = "https://github.com//DemProjrTest/#readme",
+         abstract = "Demonstrating awesomeness",
+         version = "0.0.0-1")

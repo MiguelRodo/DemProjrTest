@@ -1,0 +1,12 @@
+Package: DemProjrTest
+Title: Demonstrating awesomeness
+Version: 0.0.0-1
+Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut", "cre"))
+Maintainer: Miguel Rodo <miguel.rodo@uct.ac.za>
+Description: Demonstrating awesomeness
+License: {{ License }}
+URL: https://github.com//DemProjrTest/#readme
+BugReports: https://github.com//DemProjrTest/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
